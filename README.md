@@ -2,7 +2,7 @@
 MIDS Projects highlighted on Casey's Resume
 
 Visualizing Covid19
-- https://people.ischool.berkeley.edu/~caseyhyoon/w209covid/index.html
+- Website: https://people.ischool.berkeley.edu/~caseyhyoon/w209covid/index.html
 - Github: https://github.com/caseyhyoon/w209covid
 
 Classifying Cyberbullying Tweets
