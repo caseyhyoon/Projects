@@ -1,4 +1,4 @@
-# Personal Project
+# Personal Projects
 
 ### Pokemon Card Pricing
 - Website: https://github.com/caseyhyoon/pokemon_cards
