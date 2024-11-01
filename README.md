@@ -1,3 +1,8 @@
+# Personal Project
+
+### Pokemon Card Pricing
+- Website: https://github.com/caseyhyoon/pokemon_cards
+
 # Projects
 MIDS Projects highlighted on Casey's Resume
 
